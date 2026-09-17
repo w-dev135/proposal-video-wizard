@@ -1,2 +1,2 @@
-# proposal-video-wizard
+# 💍 求婚 Skill：AI 引导式求婚全流程生成向导
 AI 引导式求婚全流程生成向导
